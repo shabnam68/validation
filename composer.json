@@ -16,5 +16,6 @@
             "ShabiValidation\\" : "src/"
         }
     },
+    "license": ["MIT"],
     "require": {}
 }

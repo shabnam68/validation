@@ -6,4 +6,8 @@ class Validation{
     {
         return isset($data[$field]);
     }
+
+    public function get(){
+        return "big change is not";
+    }
 }

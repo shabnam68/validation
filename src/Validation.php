@@ -2,7 +2,7 @@
 
 class Validation{
 
-    public function require(array $data , string $field)
+    public function has(array $data , string $field)
     {
         return isset($data[$field]);
     }

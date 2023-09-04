@@ -1,8 +1,8 @@
 {
-    "name": "lenovo/composer-validation",
+    "name": "shabi/composer-validation",
     "autoload": {
         "psr-4": {
-            "Lenovo\\ComposerValidation\\": "src/"
+            "shabi\\ComposerValidation\\": "src/"
         }
     },
     "authors": [

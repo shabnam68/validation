@@ -1,0 +1,20 @@
+{
+    "name": "lenovo/composer-validation",
+    "autoload": {
+        "psr-4": {
+            "Lenovo\\ComposerValidation\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "shabnam68",
+            "email": "shabnam.bahmani2015@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ShabiValidation\\" : "src/"
+        }
+    },
+    "require": {}
+}
